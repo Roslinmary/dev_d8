@@ -1,0 +1,14 @@
+uuid: ea81fc13-0d6d-4280-8066-fcf8cbd712b7
+name: dev_D8
+mail: uginrose.mj@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
